@@ -12,4 +12,5 @@ noBtn.addEventListener('click', () => {
 
 yesBtn.addEventListener('click', () => {
   alert("You're gay, get away from here");
+  window.close(); // Menutup halaman web
 });
